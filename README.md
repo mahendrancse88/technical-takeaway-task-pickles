@@ -55,17 +55,19 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test API
+# Test API
 
-open Postman 
+```bash
+Open Postman 
 http://localhost:8000/api/user/:name/:email/:age
 1. Name string format
 2. Email must be use valid that send to mail  
 3. age number
 look like better as below
-http://localhost:8000/api/user/mahendran/mahendrancse88@gmail.com/28
 
+http://localhost:8000/api/user/mahendran/mahendrancse88@gmail.com/28
+```
 <img src='./assets/postman.png'/>
 
-<img src='./assets/postman-output-png.PNG'/>
-<img src='./assets/mail.PNG'/>
+<img src='./assets/postman-output-png'/>
+<img src='./assets/mail-1.png'/>
