@@ -44,6 +44,7 @@ Run on email floder
 1. Open comment prompts cd email 
 2. enter npm install 
 <img src='./assets/email-running-cmd.png'/>
+
 ```bash
 # development
 $ npm run start
